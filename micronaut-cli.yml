@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.mfuon
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, aws-v2-sdk, data, data-jpa, data-r2dbc, gradle, graphql, h2, http-client, jackson-databind, jdbc-hikari, junit, kotlin, kotlin-application, kotlin-build, logback, micronaut-build, netflix-ribbon, netty-server, openapi, r2dbc, readme, redis-lettuce, shade, yaml]
